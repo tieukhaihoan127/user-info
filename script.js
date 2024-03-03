@@ -53,7 +53,7 @@ const buttonBack = document.querySelector("#back-register");
 const buttonReset = document.querySelector("#reset");
 
 buttonBack.addEventListener("click", () => {
-    window.location.href = "https://tieukhaihoan127.github.io/register/registerPost.html";
+    window.location.href = "https://tieukhaihoan127.github.io/register/registerGet.html";
 });
 
 buttonReset.addEventListener("click", () => {
